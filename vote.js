@@ -13,5 +13,5 @@ else{
 let again=confirm("Do you want to check again?");
 if (again) {checkeligibilty(); }
 else{
-        alert('GOODBYE!');
+        alert('GOODBYE!!');
     }
